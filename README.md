@@ -1,10 +1,11 @@
 
 <h1 align="center">Hello, I'm Mukeshh</h1>
 <h3 align="center">A Programmer</h3>
-<p align="center"> 
+<p align="left"> 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
+
 <br>
 - 📫 How to reach me **xmukeshm@gmail.com.com**
 </p>
