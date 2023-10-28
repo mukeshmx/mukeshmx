@@ -17,18 +17,21 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" />
   </a>
 </p>
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,jquery,java,nodejs,py,express,c,cpp," />
   </a>
 </p>
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
+
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
