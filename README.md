@@ -7,9 +7,8 @@
 <br><br>
 
 <br>
-📫 How to reach me *xmukeshm@gmail.com.com*
+📫 How to reach me **xmukeshm@gmail.com.com**
 </p>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
 
