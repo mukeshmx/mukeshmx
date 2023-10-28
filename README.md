@@ -7,29 +7,21 @@
 <br><br>
 
 📫 How to reach me **xmukeshm@gmail.con**
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
-
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,express" />
-  </a>
-</p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind," />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,express" />
   </a>
 </p>
 
@@ -39,7 +31,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
-
 
 - Tools
 <p align="left">
